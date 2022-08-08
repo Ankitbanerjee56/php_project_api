@@ -1,0 +1,21 @@
+This is a demo project on Techmela contest participation
+of BBIt college(Im a former student)
+
+Objectives:
+
+1. Retrieve form data filled by the user in the database
+
+2. If data retrieved from the user in the database            successfully then receive payment through instamojo
+   test payment gateway api integrated in the website and     send the acknowledgement mail to user.
+
+3. Integration of google map api on the webpage.
+
+Techologies used:
+
+HtML, CSS, Php, Mysql
+
+Developed by Ankit Banerjee(me)
+
+
+
+----------------------------------------------------------------
